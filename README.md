@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## DeepSeek Harness 趣味避坑指南
+
+面向新手的中文教程，包含官方安装、实机启动截图和常见报错排查。
+
+[下载 Word 教程](https://github.com/x543819-sys/x543819-sys/blob/main/docs/deepseek-harness-guide.docx)
